@@ -1,0 +1,14 @@
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\bin\Debug\net8.0\To-Do List.exe
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\bin\Debug\net8.0\To-Do List.deps.json
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\bin\Debug\net8.0\To-Do List.runtimeconfig.json
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\bin\Debug\net8.0\To-Do List.dll
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\bin\Debug\net8.0\To-Do List.pdb
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.AssemblyInfoInputs.cache
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.AssemblyInfo.cs
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.csproj.CoreCompileInputs.cache
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.dll
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\refint\To-Do List.dll
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.pdb
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\To-Do List.genruntimeconfig.cache
+E:\Software engineer\Portfolio projects\C#\To-Do List\ToDoListApp\obj\Debug\net8.0\ref\To-Do List.dll
